@@ -1,7 +1,7 @@
 
 
 
-$(document).ready(function () {
+$(document).ready(function fizz () {
 var x = prompt("Please give me a number.")
 var y = parseInt(x,10);
 
